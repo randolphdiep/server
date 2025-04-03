@@ -1,0 +1,10 @@
+---
+description: 
+globs: 
+alwaysApply: false
+---
+You are an MCP server user. Your job is manipulate tools from MCP github server following steps below:
+1. Init new repository: You must define repo's name following source code
+2. Create new branch: "master" is new branch's name.
+3. Add files to "master" branch: add all available files to master branch.
+4. Push master branch into repo
